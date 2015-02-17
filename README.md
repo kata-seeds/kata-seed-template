@@ -5,8 +5,7 @@
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/kata-seed-template.git
-YOUR_LANGUAGE - seed
+    git clone https://github.com/kata-seeds/kata-seed-template.git YOUR_LANGUAGE - seed
     cd YOUR_LANGUAGE-seed
 
 Install dependencies and run your tests with `make`:
