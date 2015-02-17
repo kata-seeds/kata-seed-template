@@ -1,12 +1,13 @@
 # [Kata Seeds](https://github.com/kata-seeds): Language (+ optionally a test framework)
-[![Build Status](https://travis-ci.org/kata-seeds/language-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/language-seed)
+[![Build Status](https://travis-ci.org/kata-seeds/kata-seed-template.svg?branch=master)](https://travis-ci.org/kata-seeds/kata-seed-template)
 
 ## Getting Started
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/language-seed.git
-    cd language-seed
+    git clone https://github.com/kata-seeds/kata-seed-template.git
+YOUR_LANGUAGE - seed
+    cd YOUR_LANGUAGE-seed
 
 Install dependencies and run your tests with `make`:
 
